@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  background: #f7e8b5 url(./assets) no-repeat center fixed;
+  color: #043813;
+  font: sans-serif, 16px;
+}
+  
