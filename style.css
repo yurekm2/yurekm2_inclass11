@@ -26,6 +26,7 @@ body {
 
 p {
   font-family: "Nanum Myeongjo";
+  font-weight: 600;
   line-height: 2.0;
   margin-bottom: 100px;
 }
