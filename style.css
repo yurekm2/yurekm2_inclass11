@@ -16,12 +16,14 @@ body {
   font-family: Shrikhand;
   font-size: 48px;
   color: #2b1b14;
+  position: center;
 }
 
 .fonts {
   font-family: Shrikhand;
   font-size: 24px;
   color: #043813;
+  position: center;
 }
 
 p {
