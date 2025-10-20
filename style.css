@@ -6,7 +6,7 @@
 
 body {
   background: #f7e8b5 no-repeat center fixed;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url("./assets/Cabin-in-Mountains-1000.jpg");
+  background-image: linear-gradient(rgba(247, 232, 181, 0.7), rgba(247, 232, 181, 0.7)), url("./assets/Cabin-in-Mountains-1000.jpg");
   background-size: cover;
   color: #043813;
   font-family: sans-serif;
